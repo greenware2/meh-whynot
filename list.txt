@@ -5,3 +5,11 @@ https://escargot.chat - MSN revived.
 Snippr (NOT PUBLIC YET) - A recreation of Flickr circa July 2004.
 https://habbo.bz - Faithful recreation of 2006 Habbo.
 https://friendproject.net - Myspace circa 2006 mixed in with it circa 2009. Not intended to be a revival, but it uses old Myspace HTML for almost everything, so go crazy. The overall vibe is much better than SH, anyways.
+https://virtu.pet - Private exact replica of Neopets. Replicates it circa 05-06 (also options for 2008 theme n' mobile) in almost 1:1, including a few new cool quirks like a Nostalgia Mode.
+https://grundos.cafe - Yet another private replica of Neopets. It isn't as accurate nor comprehensive as virtupets but it's still pretty damn accurate and it's much more active development wise, pops out new games, paintbrushes, etc a lot, so if you like that you might want to use Grundo's.
+https://theretrobook.net/ - Facebook in 2006.
+newspace.club (COMING SOON) - Plans to be an exact replica of MySpace circa 2005. Pretty neat if I say so myself.
+https://scape05.com - A Runescape revival that runs on a snapshot of the game's files circa July 13, 2005. It's active enough for a RSPS.
+https://www.toonamiaftermath.com/ - Yes, you are seeing what you're seeing. A revival of Toonami, a non stop live stream of shows from Toonami's lineup that's been running since 2009, complete with 4 different channels, events, premieres, a live chat (god I wish TV had this), Saturday Mornings, and lots of care put into maintaining it. Really feels like you're watching a kids channel in the 2000s. If any of you people find any more of these types of online nostalgia TV channels, please tell me about them.
+86box - Loosely a revival here, but it's an emulator of lots of vintage technology including those from early 2000s.
+
