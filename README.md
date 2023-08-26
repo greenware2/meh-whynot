@@ -1,7 +1,9 @@
-# meh-whynot
+# 2005 Ultimate Revival List
 A fork of [ShockAwer's OIC list](). Poor man's Awesome OIC list if you may.
 
 Also known as: The Illusion of Free Choice
+
+(take note that this is currently in **2005**; I will add more revivals from 2006, 2007, as years go by. things from somewhat before 2005 are also ok to add.)
 # Contents
 - [Video Sharing](#video-sharing)
 - [Messaging/Social Networking](#messaging--social-networking)
@@ -11,9 +13,7 @@ Also known as: The Illusion of Free Choice
 # Video Sharing
 *Video sharing service revivals such as YouTube*
 - [KamTape](https://kamtape.com) - A faithful recreation of YouTube in 2005. Made by the original creator of this repository, [jrs](http://www.kamtape.com/profile.php?user=jr).
-- [BitView](https://bitview.net) - A recreation of YouTube in 2009. Made by vistafan12, Jan, etc.
-- [EraCast](https://eracast.cc) - A recreation of YouYube in 2012/2013(?). Forked version of SubRocks by {REDACTED}, ran by Aesthetiful.
-  
+
 # Messaging / Social Networking
 *Revivals of messaging services such as MSN Messenger, AOL, etc.*
 - [AOLEmu](https://aolemu.com/) - A complete emulation of the AOL service.
@@ -28,7 +28,5 @@ Also known as: The Illusion of Free Choice
 - [Virtupet](https://virtu.pet) - A recreation of 2005-06 Neopets.
 - [Grundo's Cafe](https://grundos.cafe) - A recreation of 2005-06 Neopets. Updates for new paintbrushes and similar items are pushed out regularly.
 - [Scape05](https://scape05.com) - A recreation of 2005 RuneScape.
-- [Club Penguin Legacy](https://cplegacy.com) - A recreation of 2007(?) Club Penguin.
-
 # Misc.
-- [Toonami: Aftermath](https://www.toonamiaftermath.com) - Toonami... revival? I honestly don't know.
+- [Toonami: Aftermath](https://www.toonamiaftermath.com) - Pretty sick revival of Toonami from the mid 2000s. Also includes revivals of Nickelodeon and MTV from around 1997.
