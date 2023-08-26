@@ -11,8 +11,9 @@ Also known as: The Illusion of Free Choice
 - [Misc.](#misc.)
 
 # Video Sharing
-*Video sharing service revivals such as YouTube*
+*Video sharing service revivals such as YouTube, Vimeo, etc.*
 - [KamTape](https://kamtape.com) - A faithful recreation of YouTube in 2005. Made by the original creator of this repository, [jrs](http://www.kamtape.com/profile.php?user=jr).
+- [StupidVideos](http://stupidvideos.com) - What they used before YouTube. Was brought back sometime in 2016.
 
 # Messaging / Social Networking
 *Revivals of messaging services such as MSN Messenger, AOL, etc.*
