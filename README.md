@@ -16,10 +16,10 @@ Also known as: The Illusion of Free Choice
 - [StupidVideos](http://stupidvideos.com) - What they used before YouTube. Was brought back sometime in 2016.
 
 # Messaging / Social Networking
-*Revivals of messaging services such as MSN Messenger, AOL, etc.*
+*Revivals of messaging services such as MSN Messenger, AOL, etc., and recreations of social networks like Facebook, Myspace, etc.*
 - [AOLEmu](https://aolemu.com/) - A complete emulation of the AOL service.
 - [Escargot](https://escargot.chat) - A back-end recreation of the MSN / Windows Live Messenger service. Its sister service, NINA, will support Yahoo Messenger, ICQ, and the like. Made by Animadoria, tonyshowoff, etc.
-- [Runningman Network](https://runningman.network/) - A recreation of the AOL Instant Messenger service. Ran by... honestly I don't know.
+- [Runningman Network](https://runningman.network/) - A back-end recreation of the AOL Instant Messenger service. Ran by... god knows who.
 - [TheRetrobook](https://theretrobook.net/) - A recreation of 2006 Facebook.
 - [Angiru](https://www.angiru.com.py/) - A recreation of mid-2000's Orkut.
 
@@ -31,3 +31,7 @@ Also known as: The Illusion of Free Choice
 - [Scape05](https://scape05.com) - A recreation of 2005 RuneScape.
 # Misc.
 - [Toonami: Aftermath](https://www.toonamiaftermath.com) - Pretty sick revival of Toonami from the mid 2000s. Also includes revivals of Nickelodeon and MTV from around 1997.
+
+# Upcoming
+-  **Social Networking**: NewSpace, a complete recreation of Myspace circa 2005. Ran by the same dude who runs Retrobook.
+-  **Photography**: Snippr, a faithful recreation of Flickr right when it launched, will include API, Uploadr, so and so.
