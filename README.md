@@ -23,6 +23,8 @@ Also known as: The Illusion of Free Choice
 - [TheRetrobook](https://theretrobook.net/) - A recreation of 2006 Facebook.
 - [Angiru](https://www.angiru.com.py/) - A recreation of mid-2000's Orkut.
 
+# Photo Sharing
+- [Snippr](https://snippr.win) - Recreation of Flickr around when it originally launched. Includes photos, accounts, much more.
 # Games
 *Revivals of popular games. Roblox revivals will not be added here, but you can find them on the subreddit [r/oldrobloxrevivals](https://www.reddit.com/r/oldrobloxrevivals/)*
 - [Habbo.bz](https://habbo.bz) - A recreation of 2006 Habbo
@@ -34,4 +36,3 @@ Also known as: The Illusion of Free Choice
 
 # Upcoming
 -  **Social Networking**: NewSpace, a complete recreation of Myspace circa 2005. Ran by the same dude who runs Retrobook.
--  **Photography**: Snippr, a faithful recreation of Flickr right when it launched, will include API, Uploadr, so and so.
