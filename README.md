@@ -1,9 +1,9 @@
 # 2005 Ultimate Revival List
-A fork of [ShockAwer's OIC list](). Poor man's Awesome OIC list if you may.
+An ever-changing list of projects that emulate sites from 2005 (or OIC revivals.) Poor man's Awesome OIC list if you may.
 
 Also known as: The Illusion of Free Choice
 
-(take note that this is currently in **2005**; I will add more revivals from 2006, 2007, as years go by. things from somewhat before 2005 are also ok to add.)
+(take note that this is currently in **2005**; more revivals from 2006, 2007, will be added as time goes on. Projects emulating sites from before 2005 are also ok to add.)
 # Contents
 - [Video Sharing](#video-sharing)
 - [Messaging/Social Networking](#messaging--social-networking)
