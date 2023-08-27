@@ -9,6 +9,7 @@ Also known as: The Illusion of Free Choice
 - [Messaging/Social Networking](#messaging--social-networking)
 - [Games](#games)
 - [Misc.](#misc.)
+- [Upcoming](#upcoming)
 
 # Video Sharing
 *Video sharing service revivals such as YouTube, Vimeo, etc.*
@@ -29,9 +30,11 @@ Also known as: The Illusion of Free Choice
 - [Virtupet](https://virtu.pet) - A recreation of 2005-06 Neopets.
 - [Grundo's Cafe](https://grundos.cafe) - A recreation of 2005-06 Neopets. Updates for new paintbrushes and similar items are pushed out regularly.
 - [Scape05](https://scape05.com) - A recreation of 2005 RuneScape.
+  
 # Misc.
 - [Toonami: Aftermath](https://www.toonamiaftermath.com) - Pretty sick revival of Toonami from the mid 2000s. Also includes revivals of Nickelodeon and MTV from around 1997.
-
+- [ucanet](https://ucanet.net) - a DNS replacement service for your Windows 98+ computer. You can also register your domains via their discord server listed onsite.
+  
 # Upcoming
 -  **Social Networking**: NewSpace, a complete recreation of Myspace circa 2005. Ran by the same dude who runs Retrobook.
 -  **Photography**: Snippr, a faithful recreation of Flickr right when it launched, will include API, Uploadr, so and so.
